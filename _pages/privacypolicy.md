@@ -7,212 +7,201 @@ include_in_header: false
 Política de Privacidade
 =======================
 
-Última atualização: 20 de abril de 2026
+Última atualização: 28 de abril de 2026
 
-Esta Política de Privacidade descreve Nossas políticas e procedimentos sobre a coleta, uso e divulgação de Suas informações quando Você usa o Serviço, e informa sobre Seus direitos de privacidade e como a lei O protege.
+Este Aviso de Privacidade da 64.448.469 MATHEUS PINHEIRO MASSULA (**"nós"**, **"nos"** ou **"nosso"**), descreve como e por que podemos acessar, coletar, armazenar, utilizar e/ou compartilhar (**"processar"**) suas informações pessoais quando você utiliza nossos serviços (**"Serviços"**), inclusive quando você:
+- Faz o download e utiliza nosso aplicativo móvel (Zeit) ou qualquer outro aplicativo nosso que vincule a este Aviso de Privacidade
+- Utiliza o Zeit. O Zeit ajuda autônomos e profissionais de serviços a organizar compromissos, gerenciar clientes e serviços e acompanhar receitas e despesas em um só lugar.
+- Interage conosco de outras formas relacionadas, inclusive em marketing ou eventos
 
-Usamos Seus Dados Pessoais para fornecer e melhorar o Serviço. Ao utilizar o Serviço, Você concorda com a coleta e o uso de informações de acordo com esta Política de Privacidade. Esta Política de Privacidade foi criada com a ajuda do [Gerador de Política de Privacidade](https://www.termsfeed.com/privacy-policy-generator/).
+**Dúvidas ou preocupações?** A leitura deste Aviso de Privacidade ajudará você a entender seus direitos e escolhas em relação à privacidade. Somos responsáveis por decidir como suas informações pessoais são processadas. Se você não concordar com nossas políticas e práticas, por favor não utilize nossos Serviços. Se ainda tiver dúvidas ou preocupações, entre em contato conosco em [matheus.massula.dev@gmail.com](mailto:matheus.massula.dev@gmail.com).
 
-Interpretação e Definições
---------------------------
+---
 
-### Interpretação
+## Resumo dos pontos principais
+*Este resumo traz os pontos principais do nosso Aviso de Privacidade, mas você pode obter mais detalhes sobre qualquer um desses tópicos clicando no link após cada ponto ou usando o índice abaixo para localizar a seção desejada.*
 
-As palavras com letras iniciais maiúsculas têm significados definidos nas condições abaixo. As definições a seguir terão o mesmo significado independentemente de aparecerem no singular ou no plural.
+***Quais informações pessoais processamos?*** Quando você visita, utiliza ou navega em nossos Serviços, podemos processar informações pessoais conforme a forma como interage conosco e com os Serviços, as escolhas que faz e os produtos e recursos que utiliza. Saiba mais sobre as informações pessoais que você nos fornece.
 
-### Definições
+***Processamos informações pessoais sensíveis?*** Parte das informações pode ser considerada "especial" ou "sensível" em certas jurisdições, por exemplo origem racial ou étnica, orientação sexual e crenças religiosas. Não processamos informações pessoais sensíveis.
 
-Para os fins desta Política de Privacidade:
+***Coletamos informações de terceiros?*** Não coletamos informações de terceiros.
 
-*   **Conta** significa uma conta exclusiva criada para Você acessar nosso Serviço ou partes do nosso Serviço.
-    
-*   **Afiliada** significa uma entidade que controla, é controlada por, ou está sob controle comum com uma parte, em que "controle" significa propriedade de 50% ou mais das ações, participação societária ou outros títulos com direito a voto para eleição de diretores ou outra autoridade administrativa.
-    
-*   **Aplicativo** refere-se ao Zeit, o programa de software fornecido pela Empresa.
-    
-*   **Empresa** (referida nesta Política de Privacidade como "a Empresa", "Nós", "Nos" ou "Nosso(a)") refere-se a Matheus Massula, Rua Amilcar Cabral, 601.
-    
-*   **País** refere-se a: Brasil
-    
-*   **Dispositivo** significa qualquer dispositivo que possa acessar o Serviço, como um computador, telefone celular ou tablet digital.
-    
-*   **Dados Pessoais** (ou "Informações Pessoais") são quaisquer informações relacionadas a uma pessoa identificada ou identificável.
-    
-    Usamos "Dados Pessoais" e "Informações Pessoais" de forma intercambiável, a menos que uma lei utilize um termo específico.
-    
-*   **Serviço** refere-se ao Aplicativo.
-    
-*   **Prestador de Serviço** significa qualquer pessoa física ou jurídica que processe os dados em nome da Empresa. Refere-se a empresas terceiras ou indivíduos contratados pela Empresa para facilitar o Serviço, para prestar o Serviço em nome da Empresa, para realizar serviços relacionados ao Serviço ou para auxiliar a Empresa na análise de como o Serviço é usado.
-    
-*   **Dados de Uso** refere-se a dados coletados automaticamente, gerados pelo uso do Serviço ou pela própria infraestrutura do Serviço (por exemplo, a duração de uma visita de página).
-    
-*   **Você** significa a pessoa que acessa ou usa o Serviço, ou a empresa, ou outra entidade jurídica em nome da qual essa pessoa está acessando ou usando o Serviço, conforme aplicável.
-    
+***Como processamos suas informações?*** Processamos suas informações para fornecer, melhorar e administrar nossos Serviços, nos comunicar com você, para segurança e prevenção a fraudes e para cumprir a lei. Também podemos processar suas informações para outras finalidades com o seu consentimento. Só processamos suas informações quando houver base legal válida. Saiba mais sobre como processamos suas informações.
 
-Coleta e Uso dos Seus Dados Pessoais
-------------------------------------
+***Em quais situações e com quais partes compartilhamos informações pessoais?*** Podemos compartilhar informações em situações específicas e com terceiros específicos. Saiba mais sobre quando e com quem compartilhamos suas informações pessoais.
 
-### Tipos de Dados Coletados
+***Como mantemos suas informações seguras?*** Mantemos processos e procedimentos organizacionais e técnicos adequados para proteger suas informações pessoais. Porém, nenhuma transmissão eletrônica pela internet ou tecnologia de armazenamento de informações pode ser garantida como 100% segura; portanto, não podemos prometer ou garantir que hackers, cibercriminosos ou outros terceiros não autorizados não consigam contornar nossa segurança e coletar, acessar, roubar ou modificar indevidamente suas informações. Saiba mais sobre como mantemos suas informações seguras.
 
-#### Dados Pessoais
+***Quais são seus direitos?*** Conforme onde você se encontra geograficamente, a legislação de privacidade aplicável pode conferir certos direitos sobre suas informações pessoais. Saiba mais sobre seus direitos de privacidade.
 
-Ao usar Nosso Serviço, podemos solicitar que Você nos forneça determinadas informações pessoalmente identificáveis que podem ser usadas para contatá-Lo ou identificá-Lo. As informações pessoalmente identificáveis podem incluir, mas não se limitam a:
+***Como exercer seus direitos?*** A forma mais simples é apresentar uma solicitação de acesso do titular dos dados ou entrar em contato conosco. Analisaremos e atenderemos qualquer pedido de acordo com as leis de proteção de dados aplicáveis.
 
-*   Endereço de e-mail
+Quer saber mais sobre o que fazemos com as informações que coletamos? Leia o Aviso de Privacidade na íntegra.
 
-#### Dados de Uso
+---
 
-Os Dados de Uso são coletados automaticamente ao usar o Serviço.
+## Índice
+1. QUAIS INFORMAÇÕES COLETAMOS?
+2. COMO PROCESSAMOS SUAS INFORMAÇÕES?
+3. QUANDO E COM QUEM COMPARTILHAMOS SUAS INFORMAÇÕES PESSOAIS?
+4. POR QUANTO TEMPO MANTEMOS SUAS INFORMAÇÕES?
+5. COMO MANTEMOS SUAS INFORMAÇÕES SEGURAS?
+6. COLETAMOS INFORMAÇÕES DE MENORES?
+7. QUAIS SÃO SEUS DIREITOS DE PRIVACIDADE?
+8. CONTROLES PARA RECURSOS "NÃO RASTREAR" (DO-NOT-TRACK)
+9. FAREMOS ATUALIZAÇÕES DESTE AVISO?
+10. COMO ENTRAR EM CONTATO CONOSCO SOBRE ESTE AVISO?
+11. COMO REVISAR, ATUALIZAR OU EXCLUIR OS DADOS QUE COLETAMOS DE VOCÊ?
 
-Os Dados de Uso podem incluir informações como o endereço de Protocolo de Internet do Seu Dispositivo (por exemplo, endereço IP), tipo de navegador, versão do navegador, as páginas do nosso Serviço que Você visita, horário e data da Sua visita, tempo gasto nessas páginas, identificadores exclusivos de dispositivo e outros dados de diagnóstico.
+---
 
-Quando Você acessa o Serviço por meio de um dispositivo móvel, podemos coletar automaticamente certas informações, incluindo, mas não se limitando a, o tipo de dispositivo móvel que Você usa, ID exclusivo do Seu dispositivo móvel, endereço IP do Seu dispositivo móvel, sistema operacional móvel, tipo de navegador de Internet móvel que Você usa, identificadores exclusivos de dispositivo e outros dados de diagnóstico.
+## 1. QUAIS INFORMAÇÕES COLETAMOS?
+### Informações pessoais que você nos fornece
+*Em resumo:* Coletamos informações pessoais que você nos fornece.
 
-Também podemos coletar informações que Seu navegador envia sempre que Você visita Nosso Serviço ou quando acessa o Serviço por meio de um dispositivo móvel.
+Coletamos informações pessoais que você nos fornece voluntariamente ao se cadastrar nos Serviços, demonstrar interesse em obter informações sobre nós ou nossos produtos e Serviços, ao participar de atividades nos Serviços ou, de outro modo, ao nos contatar.
 
-#### Informações Coletadas durante o Uso do Aplicativo
+**Informações pessoais fornecidas por você.** As informações pessoais que coletamos dependem do contexto de suas interações conosco e com os Serviços, das escolhas que faz e dos produtos e recursos que utiliza. As informações pessoais que podemos coletar incluem:
+- endereços de e-mail
+- senhas
 
-Ao usar Nosso Aplicativo, para fornecer funcionalidades do Nosso Aplicativo, podemos coletar, com Sua permissão prévia:
+**Informações sensíveis.** Não processamos informações sensíveis.
 
-*   Informações da lista de contatos do Seu Dispositivo (agenda de contatos)
+**Dados de pagamento.** Podemos coletar dados necessários para processar seu pagamento se você optar por fazer compras, como o número do meio de pagamento e o código de segurança associado ao meio de pagamento. Todos os dados de pagamento são tratados e armazenados pela RevenueCat. Você pode consultar o(s) link(s) do aviso de privacidade deles aqui: [https://www.revenuecat.com/privacy](https://www.revenuecat.com/privacy).
 
-Usamos essas informações para fornecer funcionalidades do Nosso Serviço e para melhorar e personalizar Nosso Serviço. As informações podem ser carregadas para os servidores da Empresa e/ou de um Prestador de Serviço, ou podem simplesmente ser armazenadas no Seu dispositivo.
+**Dados do aplicativo.** Se você utiliza nosso(s) aplicativo(s), também podemos coletar as informações a seguir se você optar por nos conceder acesso ou permissão:
+- *Acesso ao dispositivo móvel.* Podemos solicitar acesso ou permissão a determinados recursos do seu dispositivo móvel, incluindo calendário, contatos e outros recursos. Se desejar alterar nosso acesso ou permissões, você pode fazê-lo nas configurações do dispositivo.
+- *Dados do dispositivo móvel.* Coletamos automaticamente informações do dispositivo (como ID, modelo e fabricante do aparelho), sistema operacional, informações de versão e de configuração do sistema, números de identificação do dispositivo e do aplicativo, tipo e versão do navegador, modelo de hardware, provedor de internet e/ou operadora móvel e endereço de Protocolo de Internet (IP) (ou servidor proxy). Se você utiliza nossos aplicativos, também podemos coletar informações sobre a rede telefônica associada ao seu dispositivo, o sistema operacional ou a plataforma, o tipo de aparelho, o identificador único do dispositivo e informações sobre os recursos dos nossos aplicativos que você acessou.
+- *Notificações push.* Podemos solicitar permissão para enviar notificações push relativas à sua conta ou a determinados recursos dos aplicativos. Se desejar deixar de receber esses tipos de comunicação, você pode desativá-las nas configurações do dispositivo.
 
-Você pode habilitar ou desabilitar o acesso a essas informações a qualquer momento, por meio das configurações do Seu Dispositivo.
+Essas informações servem principalmente para manter a segurança e o funcionamento de nossos aplicativos, para solução de problemas e para análises e relatórios internos.
 
-### Uso dos Seus Dados Pessoais
+Todas as informações pessoais que você nos fornecer devem ser verdadeiras, completas e precisas, e você deve nos notificar sobre quaisquer alterações a essas informações pessoais.
 
-A Empresa pode usar Dados Pessoais para as seguintes finalidades:
+### Informações coletadas automaticamente
 
-*   **Para fornecer e manter nosso Serviço**, incluindo monitorar o uso do nosso Serviço.
-    
-*   **Para gerenciar Sua Conta:** para gerenciar Seu cadastro como usuário do Serviço. Os Dados Pessoais que Você fornece podem dar acesso a diferentes funcionalidades do Serviço disponíveis para Você como usuário cadastrado.
-    
-*   **Para a execução de um contrato:** desenvolvimento, cumprimento e execução do contrato de compra de produtos, itens ou serviços que Você adquiriu, ou de qualquer outro contrato conosco por meio do Serviço.
-    
-*   **Para contatá-Lo:** Para contatá-Lo por e-mail, ligações telefônicas, SMS, ou outras formas equivalentes de comunicação eletrônica, como notificações push de aplicativos móveis sobre atualizações ou comunicações informativas relacionadas às funcionalidades, produtos ou serviços contratados, incluindo atualizações de segurança, quando necessário ou razoável para sua implementação.
-    
-*   **Para fornecer a Você** notícias, ofertas especiais e informações gerais sobre outros bens, serviços e eventos que oferecemos, semelhantes aos que Você já comprou ou sobre os quais demonstrou interesse, a menos que Você tenha optado por não receber tais informações.
-    
-*   **Para gerenciar Suas solicitações:** Para atender e gerenciar Suas solicitações para Nós.
-    
-*   **Para transferências comerciais:** Podemos usar Seus Dados Pessoais para avaliar ou conduzir uma fusão, cisão, reestruturação, reorganização, dissolução ou outra venda ou transferência de parte ou da totalidade de Nossos ativos, seja como empresa em atividade ou como parte de falência, liquidação ou processo semelhante, em que os Dados Pessoais que mantemos sobre os usuários do nosso Serviço estejam entre os ativos transferidos.
-    
-*   **Para outras finalidades**: Podemos usar Suas informações para outras finalidades, como análise de dados, identificação de tendências de uso, determinação da eficácia de campanhas promocionais e avaliação e melhoria do Nosso Serviço, produtos, serviços, marketing e da Sua experiência.
-    
+***Em resumo***: *Algumas informações — como seu endereço de Protocolo de Internet (IP) e/ou características do navegador e do dispositivo — são coletadas automaticamente quando você visita nossos Serviços.*
 
-Podemos compartilhar Seus Dados Pessoais nas seguintes situações:
+Coletamos automaticamente certas informações quando você visita, utiliza ou navega pelos Serviços. Essas informações não revelam sua identidade específica (como seu nome ou dados de contato), mas podem incluir informações de dispositivo e de uso, como endereço IP, características do navegador e do dispositivo, sistema operacional, preferências de idioma, URLs de referência, nome do dispositivo, país, localização, informações sobre como e quando você utiliza nossos Serviços e outras informações técnicas. Essas informações servem principalmente para manter a segurança e o funcionamento de nossos Serviços e para análises e relatórios internos.
 
-*   **Com Prestadores de Serviço:** Podemos compartilhar Seus Dados Pessoais com Prestadores de Serviço para monitorar e analisar o uso do nosso Serviço, para contatá-Lo.
-*   **Para transferências comerciais:** Podemos compartilhar ou transferir Seus Dados Pessoais em conexão com, ou durante negociações de, qualquer fusão, venda de ativos da Empresa, financiamento ou aquisição de toda ou parte de Nosso negócio por outra empresa.
-*   **Com Afiliadas:** Podemos compartilhar Seus Dados Pessoais com Nossas afiliadas, caso em que exigiremos que essas afiliadas respeitem esta Política de Privacidade. As afiliadas incluem Nossa controladora e quaisquer outras subsidiárias, parceiros de joint venture ou outras empresas que controlamos ou que estejam sob controle comum conosco.
-*   **Com parceiros comerciais:** Podemos compartilhar Seus Dados Pessoais com Nossos parceiros comerciais para oferecer a Você determinados produtos, serviços ou promoções.
-*   **Com outros usuários:** Se Nosso Serviço oferecer áreas públicas, quando Você compartilhar Dados Pessoais ou interagir de outra forma nessas áreas públicas com outros usuários, essas informações poderão ser visualizadas por todos os usuários e poderão ser distribuídas publicamente fora dessas áreas.
-*   **Com o Seu consentimento**: Podemos divulgar Seus Dados Pessoais para qualquer outra finalidade com o Seu consentimento.
+As informações que coletamos incluem:
+- Dados de registro e de uso. Dados de registro e de uso são informações relacionadas ao serviço, diagnóstico, uso e desempenho que nossos servidores coletam automaticamente quando você acessa ou utiliza nossos Serviços e que registramos em arquivos de log. Conforme a forma como você interage conosco, esses dados de log podem incluir seu endereço IP, informações do dispositivo, tipo e configurações do navegador e informações sobre sua atividade nos Serviços (como data e hora associadas ao uso, páginas e arquivos visualizados, pesquisas e outras ações, como quais recursos você utiliza), informações de eventos do dispositivo (como atividade do sistema, relatórios de erros [às vezes chamados de "crash dumps"] e configurações de hardware).
+- Dados do dispositivo. Coletamos dados do dispositivo, como informações sobre o computador, telefone, tablet ou outro dispositivo usado para acessar os Serviços. Conforme o dispositivo, esses dados podem incluir endereço IP (ou servidor proxy), números de identificação do dispositivo e do aplicativo, localização, tipo de navegador, modelo de hardware, provedor de internet e/ou operadora móvel, sistema operacional e informações de configuração do sistema.
+- Dados de localização. Coletamos dados de localização, como informações sobre a localização do dispositivo, que podem ser precisas ou aproximadas. A quantidade de informações coletadas depende do tipo e das configurações do dispositivo usado para acessar os Serviços. Por exemplo, podemos utilizar GPS e outras tecnologias para coletar dados de geolocalização que indiquem sua localização atual (com base no seu endereço IP). Você pode deixar de permitir a coleta dessas informações recusando o acesso ou desativando a configuração de Localização no dispositivo. Porém, se optar por isso, pode não conseguir usar determinados aspectos dos Serviços.
 
-### Retenção dos Seus Dados Pessoais
+---
 
-A Empresa reterá Seus Dados Pessoais somente pelo tempo necessário para as finalidades estabelecidas nesta Política de Privacidade. Reteremos e usaremos Seus Dados Pessoais na medida necessária para cumprir nossas obrigações legais (por exemplo, se formos obrigados a reter Seus dados para cumprir leis aplicáveis), resolver disputas e fazer cumprir nossos acordos e políticas legais.
+## 2. COMO PROCESSAMOS SUAS INFORMAÇÕES?
 
-Sempre que possível, aplicamos períodos de retenção menores e/ou reduzimos a identificabilidade por meio da exclusão, agregação ou anonimização de dados. Salvo indicação em contrário, os períodos de retenção abaixo são períodos máximos ("até") e podemos excluir ou anonimizar dados antes, quando eles não forem mais necessários para a finalidade relevante. Aplicamos períodos de retenção diferentes para diferentes categorias de Dados Pessoais com base na finalidade do tratamento e em obrigações legais:
+***Em resumo:*** *Processamos suas informações para fornecer, melhorar e administrar nossos Serviços, nos comunicar com você, para segurança e prevenção a fraudes e para cumprir a lei. Também podemos processar suas informações para outras finalidades com o seu consentimento.*
 
-*   Informações de Conta
-    
-    *   Contas de Usuário: retidas durante a relação da conta e por até 24 meses após o encerramento da conta para tratar questões pós-encerramento ou resolver disputas.
-*   Dados de Suporte ao Cliente
-    
-    *   Tickets e correspondências de suporte: até 24 meses a partir da data de encerramento do ticket para resolver solicitações de acompanhamento, acompanhar a qualidade do serviço e defender-se contra potenciais reivindicações legais
-    *   Transcrições de chat: até 24 meses para fins de garantia de qualidade e treinamento da equipe.
-*   Dados de Uso
-    
-    *   Estatísticas de uso do aplicativo: até 24 meses para entender a adoção de funcionalidades e melhorias no serviço.
-        
-    *   Logs de servidor (endereços IP, horários de acesso): até 24 meses para monitoramento de segurança e solução de problemas.
-        
+**Processamos suas informações pessoais por diversos motivos, conforme a forma como você interage com nossos Serviços, inclusive:**
 
-Os Dados de Uso são retidos de acordo com os períodos de retenção descritos acima, e podem ser retidos por mais tempo apenas quando necessário para segurança, prevenção de fraudes ou conformidade legal.
+- **Para viabilizar a criação e a autenticação de conta e, de modo geral, administrar contas de usuário.** Podemos processar suas informações para que você crie e acesse sua conta, bem como para manter a conta em funcionamento.
+- **Para lhe enviar informações administrativas.** Podemos processar suas informações para lhe enviar detalhes sobre nossos produtos e serviços, alterações em nossos termos e políticas e outras informações similares.
+- **Para avaliar e aprimorar nossos Serviços, produtos, marketing e sua experiência.** Podemos processar suas informações quando entendermos ser necessário identificar tendências de uso, medir a eficácia de nossas campanhas promocionais e avaliar e aprimorar nossos Serviços, produtos, marketing e sua experiência.
+- **Para identificar tendências de uso.** Podemos processar informações sobre como você utiliza nossos Serviços para entender melhor o uso e melhorá-los.
+- **Para cumprir nossas obrigações legais.** Podemos processar suas informações para cumprir obrigações legais, responder a solicitações legais e exercer, estabelecer ou defender nossos direitos legais.
 
-Podemos reter Dados Pessoais além dos períodos declarados acima por diferentes motivos:
+---
 
-*   Obrigação legal: Somos obrigados por lei a reter dados específicos (por exemplo, registros financeiros para autoridades fiscais).
-*   Reivindicações legais: Os dados são necessários para estabelecer, exercer ou defender reivindicações legais.
-*   Seu pedido explícito: Você nos solicita a retenção de informações específicas.
-*   Limitações técnicas: Os dados existem em sistemas de backup programados para exclusão rotineira.
+## 3. QUANDO E COM QUEM COMPARTILHAMOS SUAS INFORMAÇÕES PESSOAIS?
 
-Você pode solicitar informações sobre por quanto tempo reteremos Seus Dados Pessoais entrando em contato conosco.
+***Em resumo:*** *Podemos compartilhar informações em situações específicas descritas nesta seção e/ou com os seguintes terceiros.*
 
-Quando os períodos de retenção expiram, excluímos ou anonimizamos Dados Pessoais com segurança de acordo com os seguintes procedimentos:
+**Fornecedores, consultores e outros prestadores de serviços de terceiros.** Podemos compartilhar seus dados com fornecedores, prestadores de serviços, empreiteiros ou agentes de terceiros ("terceiros") que executam serviços para nós ou em nosso nome e precisam de acesso a essas informações para realizar o trabalho.
 
-*   Exclusão: Os Dados Pessoais são removidos dos Nossos sistemas e deixam de ser processados ativamente.
-*   Retenção em backup: Cópias residuais podem permanecer em backups criptografados por um período limitado, de acordo com nosso cronograma de retenção de backup, e não são restauradas, exceto quando necessário para segurança, recuperação de desastres ou conformidade legal.
-*   Anonimização: Em alguns casos, convertemos Dados Pessoais em dados estatísticos anônimos que não podem ser vinculados a Você. Esses dados anonimizados podem ser retidos indefinidamente para pesquisa e análise.
+Os terceiros com os quais podemos compartilhar informações pessoais são os seguintes:
+- Serviços de computação em nuvem  
+  Google Cloud Platform
+- Otimização de funcionalidade e infraestrutura  
+  supabase
+- Faturamento e cobrança  
+  RevenueCat
+- Cadastro e autenticação de conta de usuário  
+  supabase
+- Análise web e móvel  
+  sentry e MixPanel
+- Hospedagem de site  
+  Github Pages
 
-### Transferência dos Seus Dados Pessoais
+Também podemos precisar compartilhar suas informações pessoais nas seguintes situações:
 
-Suas informações, incluindo Dados Pessoais, são processadas nos escritórios operacionais da Empresa e em quaisquer outros locais onde as partes envolvidas no tratamento estejam localizadas. Isso significa que essas informações podem ser transferidas para - e mantidas em - computadores localizados fora do Seu estado, província, país ou outra jurisdição governamental, onde as leis de proteção de dados podem diferir das da Sua jurisdição.
+- **Transferências empresariais.** Podemos compartilhar ou transferir suas informações em conexão com, ou durante negociações de, fusão, venda de ativos da empresa, financiamento ou aquisição de toda ou parte de nossos negócios por outra empresa.
+- **Mural de ofertas (offer wall).** Nosso(s) aplicativo(s) pode(m) exibir um "mural de ofertas" hospedado por terceiros. Esse mural permite que anunciantes ofereçam moeda virtual, brindes ou outros itens aos usuários em troca da aceitação e conclusão de uma oferta publicitária. Esse mural pode aparecer em nosso(s) aplicativo(s) e ser exibido com base em determinados dados, como sua região geográfica ou informações demográficas. Ao clicar em um mural de ofertas, você será direcionado a um site externo de outras pessoas e sairá do(s) nosso(s) aplicativo(s). Um identificador exclusivo, como seu ID de usuário, será compartilhado com o provedor do mural de ofertas para prevenir fraudes e creditar corretamente em sua conta a recompensa correspondente.
 
-Quando exigido por lei aplicável, garantiremos que as transferências internacionais de Seus Dados Pessoais estejam sujeitas a salvaguardas apropriadas e medidas suplementares quando apropriado. A Empresa tomará todas as medidas razoavelmente necessárias para garantir que Seus dados sejam tratados com segurança e de acordo com esta Política de Privacidade, e nenhuma transferência de Seus Dados Pessoais ocorrerá para uma organização ou um país, a menos que existam controles adequados, incluindo a segurança dos Seus dados e outras informações pessoais.
+---
 
-### Excluir Seus Dados Pessoais
+## 4. POR QUANTO TEMPO MANTEMOS SUAS INFORMAÇÕES?
 
-Você tem o direito de excluir ou solicitar que Nós auxiliemos na exclusão dos Dados Pessoais que coletamos sobre Você.
+***Em resumo:*** *Mantemos suas informações pelo tempo necessário para cumprir as finalidades descritas neste Aviso de Privacidade, salvo quando a lei exigir de outro modo.*
 
-Nosso Serviço pode oferecer a Você a capacidade de excluir determinadas informações sobre Você dentro do Serviço.
+Só manteremos suas informações pessoais pelo tempo necessário às finalidades estabelecidas neste Aviso de Privacidade, salvo se um prazo de retenção mais longo for exigido ou permitido por lei (como obrigações fiscais, contábeis ou outras exigências legais). Nenhuma finalidade deste aviso exige que guardemos suas informações pessoais por mais tempo do que o período em que os usuários mantiverem uma conta conosco.
 
-Você pode atualizar, alterar ou excluir Suas informações a qualquer momento entrando na Sua Conta, se tiver uma, e visitando a seção de configurações da conta que permite gerenciar Suas informações pessoais. Você também pode entrar em contato conosco para solicitar acesso, correção ou exclusão de quaisquer Dados Pessoais que tenha nos fornecido.
+Quando não houver necessidade legítima e contínua de negócio para processar suas informações pessoais, excluiremos ou anonimizaremos essas informações ou, se isso não for possível (por exemplo, porque suas informações pessoais estiverem armazenadas em backups), armazenaremos de forma segura e isolaremos de qualquer processamento adicional até que a exclusão seja possível.
 
-Observe, no entanto, que talvez precisemos reter determinadas informações quando tivermos obrigação legal ou base legal para fazê-lo.
+---
 
-### Divulgação dos Seus Dados Pessoais
+## 5. COMO MANTEMOS SUAS INFORMAÇÕES SEGURAS?
 
-#### Transações Comerciais
+***Em resumo:*** *Pretendemos proteger suas informações pessoais por meio de medidas de segurança organizacionais e técnicas.*
 
-Se a Empresa estiver envolvida em uma fusão, aquisição ou venda de ativos, Seus Dados Pessoais poderão ser transferidos. Forneceremos aviso antes que Seus Dados Pessoais sejam transferidos e passem a estar sujeitos a uma Política de Privacidade diferente.
+Implementamos medidas de segurança técnicas e organizacionais adequadas e razoáveis, destinadas a proteger a segurança de quaisquer informações pessoais que processamos. Contudo, apesar de nossas salvaguardas e esforços para proteger suas informações, nenhuma transmissão eletrônica pela Internet ou tecnologia de armazenamento de informações pode ser garantida como 100% segura; portanto, não podemos prometer ou garantir que hackers, cibercriminosos ou outros terceiros não autorizados não consigam contornar nossa segurança e coletar, acessar, roubar ou modificar indevidamente suas informações. Embora façamos o possível para proteger suas informações pessoais, a transmissão de informações pessoais de e para nossos Serviços é por sua conta e risco. Você deve acessar os Serviços apenas em ambiente seguro.
 
-#### Aplicação da lei
+---
 
-Em determinadas circunstâncias, a Empresa poderá ser obrigada a divulgar Seus Dados Pessoais, se exigido por lei ou em resposta a solicitações válidas de autoridades públicas (por exemplo, um tribunal ou órgão governamental).
+## 6. COLETAMOS INFORMAÇÕES DE MENORES?
 
-#### Outros requisitos legais
+***Em resumo:*** *Não coletamos de forma intencional dados de ou não fazemos marketing para crianças menores de 18 anos.*
 
-A Empresa pode divulgar Seus Dados Pessoais na crença de boa-fé de que tal ação é necessária para:
+Não coletamos de forma intencional, não solicitamos dados de nem direcionamos marketing a crianças menores de 18 anos, nem vendemos de forma intencional tais informações pessoais. Ao utilizar os Serviços, você declara ter pelo menos 18 anos ou ser pai, mãe ou responsável por tal menor e consente com o uso dos Serviços por dependente menor. Se tomarmos conhecimento de que informações pessoais de usuários com menos de 18 anos foram coletadas, desativaremos a conta e adotaremos medidas razoáveis para excluir prontamente esses dados de nossos registros. Se souber de dados que possamos ter coletado de crianças menores de 18 anos, entre em contato conosco em [matheus.massula.dev@gmail.com](mailto:matheus.massula.dev@gmail.com).
 
-*   Cumprir uma obrigação legal
-*   Proteger e defender os direitos ou a propriedade da Empresa
-*   Prevenir ou investigar possíveis irregularidades relacionadas ao Serviço
-*   Proteger a segurança pessoal dos Usuários do Serviço ou do público
-*   Proteger contra responsabilidade legal
+---
 
-### Segurança dos Seus Dados Pessoais
+## 7. QUAIS SÃO SEUS DIREITOS DE PRIVACIDADE?
 
-A segurança dos Seus Dados Pessoais é importante para Nós, mas lembre-se de que nenhum método de transmissão pela Internet, ou método de armazenamento eletrônico, é 100% seguro. Embora nos esforcemos para usar meios comercialmente razoáveis para proteger Seus Dados Pessoais, não podemos garantir sua segurança absoluta.
+***Em resumo:*** *Você pode revisar, alterar ou encerrar sua conta a qualquer momento, conforme o país, província ou estado de residência.*
 
-Privacidade de Crianças
------------------------
+**Revogação do consentimento:** Se estivermos nos baseando em seu consentimento para processar suas informações pessoais — que pode ser expresso e/ou tácito conforme a lei aplicável —, você tem o direito de retirar o consentimento a qualquer momento. Pode retirar o consentimento a qualquer momento entrando em contato conosco pelos dados indicados na seção "COMO ENTRAR EM CONTATO CONOSCO SOBRE ESTE AVISO?" abaixo.
 
-Nosso Serviço não se destina a menores de 16 anos. Não coletamos conscientemente informações pessoalmente identificáveis de menores de 16 anos. Se Você for pai, mãe ou responsável e souber que Seu filho nos forneceu Dados Pessoais, entre em contato conosco. Se tomarmos conhecimento de que coletamos Dados Pessoais de menores de 16 anos sem verificação de consentimento parental, tomaremos medidas para remover essas informações de Nossos servidores.
+Observe, porém, que isso não afeta a licitude do processamento realizado antes da retirada nem, quando a lei aplicável permitir, o processamento de suas informações pessoais com base em outras bases legais que não o consentimento.
 
-Se precisarmos nos basear em consentimento como fundamento legal para tratar Suas informações e Seu país exigir consentimento de um responsável, poderemos exigir o consentimento de Seu pai, mãe ou responsável antes de coletar e usar essas informações.
+### Informações da conta
 
-Links para Outros Sites
------------------------
+Se quiser, a qualquer momento, revisar ou alterar as informações de sua conta ou encerrar a conta, você pode:
+- Acessar as configurações da conta e atualizar a conta de usuário.
 
-Nosso Serviço pode conter links para outros sites que não são operados por Nós. Se Você clicar em um link de terceiro, será direcionado para o site desse terceiro. Recomendamos fortemente que Você revise a Política de Privacidade de cada site que visitar.
+Diante de um pedido de encerramento de conta, desativaremos ou excluiremos sua conta e informações de nossos bancos de dados ativos. Contudo, podemos reter parte das informações em nossos arquivos para prevenir fraudes, solucionar problemas, colaborar em investigações, fazer cumprir nossos termos legais e/ou cumprir exigências legais aplicáveis.
 
-Não temos controle sobre, e não assumimos responsabilidade pelo conteúdo, políticas de privacidade ou práticas de quaisquer sites ou serviços de terceiros.
+Se tiver dúvidas ou comentários sobre seus direitos de privacidade, envie e-mail para [matheus.massula.dev@gmail.com](mailto:matheus.massula.dev@gmail.com).
 
-Alterações nesta Política de Privacidade
-----------------------------------------
+---
 
-Podemos atualizar Nossa Política de Privacidade periodicamente. Notificaremos Você sobre quaisquer alterações publicando a nova Política de Privacidade nesta página.
+## 8. CONTROLES PARA RECURSOS "NÃO RASTREAR" (DO-NOT-TRACK)
 
-Informaremos Você por e-mail e/ou por meio de um aviso em destaque em Nosso Serviço, antes que a alteração entre em vigor, e atualizaremos a data de "Última atualização" no topo desta Política de Privacidade.
+A maioria dos navegadores e parte dos sistemas operacionais móveis e aplicativos móveis inclui um recurso ou configuração Do-Not-Track ("DNT") que você pode ativar para sinalizar sua preferência de não ter dados sobre suas atividades de navegação online monitorados e coletados. Até o momento, não foi finalizado um padrão tecnológico uniforme para reconhecer e implementar sinais DNT. Assim, atualmente não respondemos a sinais de navegador DNT nem a qualquer outro mecanismo que comunique automaticamente sua escolha de não ser rastreado online. Se for adotado um padrão de rastreamento online que devamos seguir no futuro, informaremos essa prática em uma versão revisada deste Aviso de Privacidade.
 
-Você deve revisar esta Política de Privacidade periodicamente para verificar alterações. As alterações nesta Política de Privacidade entram em vigor quando são publicadas nesta página.
+---
 
-Fale Conosco
-------------
+## 9. FAREMOS ATUALIZAÇÕES DESTE AVISO?
 
-Se você tiver alguma dúvida sobre esta Política de Privacidade, pode entrar em contato conosco:
+***Em resumo:*** *Sim, atualizaremos este aviso conforme necessário para manter a conformidade com as leis relevantes.*
 
-*   Por e-mail: matheus.massula.dev@gmail.com
+Podemos atualizar este Aviso de Privacidade periodicamente. A versão atualizada será indicada por uma data de "Revisão" atualizada no topo deste Aviso de Privacidade. Se fizermos alterações relevantes a este Aviso de Privacidade, podemos notificá-lo publicando de forma visível um aviso sobre tais alterações ou enviando notificação diretamente. Recomendamos que revise com frequência este Aviso de Privacidade para se manter informado sobre como protegemos suas informações.
+
+---
+
+## 10. COMO ENTRAR EM CONTATO CONOSCO SOBRE ESTE AVISO?
+
+Se tiver dúvidas ou comentários sobre este aviso, envie e-mail para matheus.massula.dev@gmail.com ou entre em contato por correio em:
+64.448.469 MATHEUS PINHEIRO MASSULA  
+Rua Amilcar Cabral, 601  
+Belo Horizonte, Minas Gerais 30620-250  
+Brasil
+
+---
+
+## 11. COMO REVISAR, ATUALIZAR OU EXCLUIR OS DADOS QUE COLETAMOS DE VOCÊ?
+
+Com base nas leis aplicáveis do seu país, você pode ter o direito de solicitar acesso às informações pessoais que coletamos, detalhes sobre como as processamos, correção de inexatidões ou exclusão de suas informações pessoais. Também pode ter o direito de retirar o consentimento para o processamento de suas informações pessoais. Esses direitos podem ser limitados em algumas circunstâncias pela lei aplicável. Para solicitar a revisão, atualização ou exclusão de suas informações pessoais, envie e-mail para [matheus.massula.dev@gmail.com](mailto:matheus.massula.dev@gmail.com).
