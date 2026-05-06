@@ -32,7 +32,8 @@ twitter_username                          :
 github_username                           : MatheusMassula
 youtube_username                          :
 mastodon_link                             : 
-
+canonical_url                             : https://matheusmassula.github.io/zeit-landing-page/
+og_image                                  : https://matheusmassula.github.io/zeit-landing-page/assets/social-media-banner.png
 
 
 # Feature List                            Edit, add or remove features to be presented.
