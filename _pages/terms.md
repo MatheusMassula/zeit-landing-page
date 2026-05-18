@@ -11,13 +11,13 @@ Termos e condições
 
 ## CONCORDÂNCIA COM NOSSOS TERMOS LEGAIS
 
-Somos a Golias Apps ("Empresa", "nós", "nosso"), uma empresa registrada no Brasil em Rua Amilcar Cabral, 601, Belo Horizonte, Minas Gerais, 30620-250.
+Somos a 64.448.469 MATHEUS PINHEIRO MASSULA ("Empresa", "nós", "nosso"), uma empresa registrada no Brasil em Rua Amilcar Cabral, 601, Belo Horizonte, Minas Gerais, 30620-250.
 
 Operamos o aplicativo móvel Zeit (o "App"), bem como quaisquer outros produtos e serviços relacionados que façam referência ou vinculem a estes termos legais (os "Termos Legais") (coletivamente, os "Serviços").
 
 Você pode entrar em contato conosco por telefone em +55 31 99993-5266, por e-mail em [matheus.massula.dev@gmail.com](mailto:matheus.massula.dev@gmail.com), ou por correspondência em Rua Amilcar Cabral, 601, Belo Horizonte, Minas Gerais, 30620-250, Brasil.
 
-Estes Termos Legais constituem um acordo juridicamente vinculante firmado entre você, pessoalmente ou em nome de uma entidade ("você"), e a Golias Apps, referente ao seu acesso e uso dos Serviços. Ao acessar os Serviços, você declara que leu, compreendeu e concordou em ficar vinculado a todos estes Termos Legais. SE VOCÊ NÃO CONCORDAR COM TODOS ESTES TERMOS LEGAIS, FICA EXPRESSAMENTE PROIBIDO DE USAR OS SERVIÇOS E DEVE INTERROMPER O USO IMEDIATAMENTE.
+Estes Termos Legais constituem um acordo juridicamente vinculante firmado entre você, pessoalmente ou em nome de uma entidade ("você"), e a 64.448.469 MATHEUS PINHEIRO MASSULA, referente ao seu acesso e uso dos Serviços. Ao acessar os Serviços, você declara que leu, compreendeu e concordou em ficar vinculado a todos estes Termos Legais. SE VOCÊ NÃO CONCORDAR COM TODOS ESTES TERMOS LEGAIS, FICA EXPRESSAMENTE PROIBIDO DE USAR OS SERVIÇOS E DEVE INTERROMPER O USO IMEDIATAMENTE.
 
 Termos e condições complementares ou documentos que possam ser publicados nos Serviços periodicamente ficam expressamente incorporados por referência. Reservamo-nos o direito, a nosso exclusivo critério, de fazer alterações ou modificações nestes Termos Legais a qualquer momento e por qualquer motivo. Informaremos sobre quaisquer mudanças atualizando a data de "Última atualização" destes Termos Legais, e você renuncia a qualquer direito de receber aviso específico sobre cada alteração. É sua responsabilidade revisar periodicamente estes Termos Legais para manter-se informado sobre atualizações. Você estará sujeito, e será considerado como ciente e tendo aceitado, as alterações em quaisquer Termos Legais revisados em razão do uso contínuo dos Serviços após a data em que tais Termos Legais revisados forem publicados.
 
@@ -224,7 +224,7 @@ Não podemos garantir que os Serviços estarão disponíveis em todos os momento
 
 ## 15. LEI APLICÁVEL
 
-Estes Termos Legais serão regidos e interpretados de acordo com as leis do Brasil. A Golias Apps e você consentem irrevogavelmente que os tribunais do Brasil terão jurisdição exclusiva para resolver qualquer disputa que possa surgir em conexão com estes Termos Legais.
+Estes Termos Legais serão regidos e interpretados de acordo com as leis do Brasil. A 64.448.469 MATHEUS PINHEIRO MASSULA e você consentem irrevogavelmente que os tribunais do Brasil terão jurisdição exclusiva para resolver qualquer disputa que possa surgir em conexão com estes Termos Legais.
 
 ---
 
@@ -298,8 +298,9 @@ Estes Termos Legais e quaisquer políticas ou regras operacionais publicadas por
 
 Para resolver uma reclamação sobre os Serviços ou para receber mais informações sobre o uso dos Serviços, entre em contato conosco em:
 
-Golias Apps  
+64.448.469 MATHEUS PINHEIRO MASSULA  
 Rua Amilcar Cabral, 601  
-Belo Horizonte, Minas Gerais, 30620-250, Brasil  
-Telefone: +55 31 99993-5266  
+Belo Horizonte, Minas Gerais 30620-250  
+Brasil.  
+Telefone: +55 31 99993-5266.   
 E-mail: [matheus.massula.dev@gmail.com](mailto:matheus.massula.dev@gmail.com)
