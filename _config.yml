@@ -6,14 +6,14 @@ ios_app_id                                : 6762518354                          
 ios_app_country                           : br                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :  # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            : https://play.google.com/store/apps/details?id=com.golias_apps.zeit # Enter Google Play Store URL.
+playstore_link                            :  # Enter Google Play Store URL.
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/app-icon.png                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Zeit                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Bookit                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : A Zeit ajuda freelancers e profissionais de serviços a organizar compromissos, gerenciar clientes e serviços e acompanhar receitas e despesas em um só lugar.
+app_description                           : A Bookit ajuda freelancers e profissionais de serviços a organizar compromissos, gerenciar clientes e serviços e acompanhar receitas e despesas em um só lugar.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -58,6 +58,14 @@ features                                  :
   - title                                 : Controle de despesas
     description                           : Registre suas despesas com tags e notas para ter total controle financeiro do seu negócio
     fontawesome_icon_name                 : wallet
+
+  - title                                 : Defina seus horários de trabalho
+    description                           : Configure os dias e horários em que você atende, incluindo intervalos, para organizar sua disponibilidade
+    fontawesome_icon_name                 : clock
+
+  - title                                 : Mensagens personalizadas
+    description                           : Crie modelos de mensagem com variáveis como nome do cliente, serviço e data para enviar confirmações e lembretes em segundos
+    fontawesome_icon_name                 : comment-dots
 
   - title                                 : Dados seguros na nuvem
     description                           : Sendo membro premium seus dados ficam sincronizados na nuvem e acessíveis de qualquer dispositivo
