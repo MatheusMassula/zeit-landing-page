@@ -1,0 +1,130 @@
+/* ============================================================
+   Bookit design tokens — Material 3 (from Claude Design export)
+   Light scheme on :root; [data-theme="dark"] overrides.
+   ============================================================ */
+
+/* ---------- Colors ---------- */
+:root {
+  /* Primary (olive green) */
+  --md-primary: #4c662b;
+  --md-on-primary: #ffffff;
+  --md-primary-container: #cdeda3;
+  --md-on-primary-container: #354e16;
+
+  /* Secondary (sage) */
+  --md-secondary: #586249;
+  --md-on-secondary: #ffffff;
+  --md-secondary-container: #dce7c8;
+  --md-on-secondary-container: #404a33;
+
+  /* Tertiary (teal) */
+  --md-tertiary: #386663;
+  --md-on-tertiary: #ffffff;
+  --md-tertiary-container: #bcece7;
+  --md-on-tertiary-container: #1f4e4b;
+
+  /* Error */
+  --md-error: #ba1a1a;
+  --md-on-error: #ffffff;
+  --md-error-container: #ffdad6;
+  --md-on-error-container: #93000a;
+
+  /* Surface & background */
+  --md-surface: #f9faef;
+  --md-on-surface: #1a1c16;
+  --md-on-surface-variant: #44483d;
+  --md-surface-dim: #dadbd0;
+  --md-surface-bright: #f9faef;
+  --md-surface-container-lowest: #ffffff;
+  --md-surface-container-low: #f3f4e9;
+  --md-surface-container: #eeefe3;
+  --md-surface-container-high: #e8e9de;
+  --md-surface-container-highest: #e2e3d8;
+
+  /* Outline & utility */
+  --md-outline: #75796c;
+  --md-outline-variant: #c5c8ba;
+  --md-shadow: #000000;
+  --md-scrim: #000000;
+  --md-inverse-surface: #2f312a;
+  --md-inverse-on-surface: #f0f1e5;
+  --md-inverse-primary: #b1d18a;
+  --md-surface-tint: #4c662b;
+}
+
+[data-theme="dark"] {
+  --md-primary: #b1d18a;
+  --md-on-primary: #1f3701;
+  --md-primary-container: #354e16;
+  --md-on-primary-container: #cdeda3;
+
+  --md-secondary: #bfcbad;
+  --md-on-secondary: #2a331e;
+  --md-secondary-container: #404a33;
+  --md-on-secondary-container: #dce7c8;
+
+  --md-tertiary: #a0d0cb;
+  --md-on-tertiary: #003735;
+  --md-tertiary-container: #1f4e4b;
+  --md-on-tertiary-container: #bcece7;
+
+  --md-error: #ffb4ab;
+  --md-on-error: #690005;
+  --md-error-container: #93000a;
+  --md-on-error-container: #ffdad6;
+
+  --md-surface: #12140e;
+  --md-on-surface: #e2e3d8;
+  --md-on-surface-variant: #c5c8ba;
+  --md-surface-dim: #12140e;
+  --md-surface-bright: #383a32;
+  --md-surface-container-lowest: #0c0f09;
+  --md-surface-container-low: #1a1c16;
+  --md-surface-container: #1e201a;
+  --md-surface-container-high: #282b24;
+  --md-surface-container-highest: #33362e;
+
+  --md-outline: #8f9285;
+  --md-outline-variant: #44483d;
+  --md-inverse-surface: #e2e3d8;
+  --md-inverse-on-surface: #2f312a;
+  --md-inverse-primary: #4c662b;
+  --md-surface-tint: #b1d18a;
+}
+
+/* ---------- Typography ---------- */
+:root {
+  --font-display: 'Roboto', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-body: 'Roboto', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+
+  --weight-regular: 400;
+  --weight-medium: 500;
+  --weight-bold: 700;
+}
+
+/* ---------- Spacing, shape & elevation ---------- */
+:root {
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 12px;
+  --space-ml: 16px;
+  --space-lg: 20px;
+  --space-xl: 24px;
+  --space-2xl: 48px;
+  --space-3xl: 64px;
+
+  --radius-none: 0px;
+  --radius-xs: 4px;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 28px;
+  --radius-full: 9999px;
+
+  --elevation-0: none;
+  --elevation-1: 0 1px 2px rgba(0,0,0,0.30), 0 1px 3px 1px rgba(0,0,0,0.15);
+  --elevation-2: 0 1px 2px rgba(0,0,0,0.30), 0 2px 6px 2px rgba(0,0,0,0.15);
+  --elevation-3: 0 1px 3px rgba(0,0,0,0.30), 0 4px 8px 3px rgba(0,0,0,0.15);
+  --elevation-4: 0 2px 3px rgba(0,0,0,0.30), 0 6px 10px 4px rgba(0,0,0,0.15);
+  --elevation-5: 0 4px 4px rgba(0,0,0,0.30), 0 8px 12px 6px rgba(0,0,0,0.15);
+}

@@ -1,88 +1,69 @@
-<footer>
-	{% if site.your_name %}
-	<p class="footerText">Feito por {% if site.your_link %}<a href="{{ site.your_link }}">{% endif %}{{ site.your_name }}{% if site.your_link %}</a>{% endif %}{% if site.your_city %} em {{ site.your_city }}{% endif %}</p>
-	{% endif %}
-	<div class="footerIcons">
+<!-- ================= FOOTER ================= -->
+<footer class="bk-footer">
+    <div class="bk-footer__inner">
+        <div class="bk-footer__brand">
+            <div class="bk-footer__brand-row">
+                <span class="bk-footer__mark">
+                    <img src="{{ site.app_icon | relative_url }}" alt="{{ site.app_name }}">
+                </span>
+                <span class="bk-footer__name">{{ site.app_name }}</span>
+            </div>
+            {% if site.your_name %}
+                <span class="bk-footer__credit">Feito por {% if site.your_link %}<a href="{{ site.your_link }}">{% endif %}{{ site.your_name }}{% if site.your_link %}</a>{% endif %}{% if site.your_city %} em {{ site.your_city }}{% endif %}</span>
+            {% endif %}
+        </div>
 
-		{% if site.linkedin_username %}
-			<a href="https://linkedin.com/in/{{ site.linkedin_username }}">
-				<span class="fa-stack fa-1x">
-					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
-					<i class="socialIconTop fab fa-linkedin fa-stack-1x"></i>
-				</span>
-			</a>
-		{% endif %}
-
-		{% if site.linkedin_company %}
-			<a href="https://linkedin.com/company/{{ site.linkedin_company }}">
-				<span class="fa-stack fa-1x">
-					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
-					<i class="socialIconTop fab fa-linkedin fa-stack-1x"></i>
-				</span>
-			</a>
-		{% endif %}
-
-		{% if site.facebook_username %}
-			<a href="https://facebook.com/{{ site.facebook_username }}">
-				<span class="fa-stack fa-1x">
-					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
-					<i class="socialIconTop fab fa-facebook fa-stack-1x"></i>
-				</span>
-			</a>
-		{% endif %}
-
-		{% if site.twitter_username %}
-			<a href="https://twitter.com/{{ site.twitter_username }}">
-				<span class="fa-stack fa-1x">
-					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
-					<i class="socialIconTop fab fa-twitter fa-stack-1x"></i>
-				</span>
-			</a>
-		{% endif %}
-
-		{% if site.instagram_username %}
-			<a href="https://instagram.com/{{ site.instagram_username }}">
-				<span class="fa-stack fa-1x">
-					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
-					<i class="socialIconTop fab fa-instagram fa-stack-1x"></i>
-				</span>
-			</a>
-		{% endif %}
-
-		{% if site.mastodon_link %}
-			<a rel="me" href="{{ site.mastodon_link }}">
-				<span class="fa-stack fa-1x">
-					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
-					<i class="socialIconTop fab fa-mastodon fa-stack-1x"></i>
-				</span>
-			</a>
-		{% endif %}
-
-		{% if site.github_username %}
-			<a href="https://github.com/{{ site.github_username }}">
-				<span class="fa-stack fa-1x">
-					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
-					<i class="socialIconTop fab fa-github fa-stack-1x"></i>
-				</span>
-			</a>
-		{% endif %}
-
-		{% if site.email_address %}
-			<a href="mailto:{{ site.email_address }}">
-				<span class="fa-stack fa-1x">
-					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
-					<i class="socialIconTop fas fa-envelope fa-stack-1x"></i>
-				</span>
-			</a>
-		{% endif %}
-
-	</div>
-	<div class="footerLinks">
-		{% for page in site.pages %}
-			<a href="{{ page.url | relative_url }}" target="_self">{{ page.title }}</a>
-		{% endfor %}
-		{% if site.presskit_download_link %}
-			<a href="{{ site.presskit_download_link }}">Press Kit</a>
-		{% endif %}
-	</div>
+        <div class="bk-footer__right">
+            <div class="bk-social">
+                {% if site.linkedin_username %}
+                    <a href="{{ site.linkedin_username }}" aria-label="LinkedIn">
+                        <span class="material-symbols-outlined" style="font-size:20px">group</span>
+                    </a>
+                {% endif %}
+                {% if site.linkedin_company %}
+                    <a href="{{ site.linkedin_company }}" aria-label="LinkedIn">
+                        <span class="material-symbols-outlined" style="font-size:20px">group</span>
+                    </a>
+                {% endif %}
+                {% if site.github_username %}
+                    <a href="https://github.com/{{ site.github_username }}" aria-label="GitHub">
+                        <span class="material-symbols-outlined" style="font-size:20px">code</span>
+                    </a>
+                {% endif %}
+                {% if site.facebook_username %}
+                    <a href="https://facebook.com/{{ site.facebook_username }}" aria-label="Facebook">
+                        <span class="material-symbols-outlined" style="font-size:20px">public</span>
+                    </a>
+                {% endif %}
+                {% if site.instagram_username %}
+                    <a href="https://instagram.com/{{ site.instagram_username }}" aria-label="Instagram">
+                        <span class="material-symbols-outlined" style="font-size:20px">photo_camera</span>
+                    </a>
+                {% endif %}
+                {% if site.twitter_username %}
+                    <a href="https://x.com/{{ site.twitter_username }}" aria-label="X">
+                        <span class="material-symbols-outlined" style="font-size:20px">public</span>
+                    </a>
+                {% endif %}
+                {% if site.mastodon_link %}
+                    <a rel="me" href="{{ site.mastodon_link }}" aria-label="Mastodon">
+                        <span class="material-symbols-outlined" style="font-size:20px">public</span>
+                    </a>
+                {% endif %}
+                {% if site.email_address %}
+                    <a href="mailto:{{ site.email_address }}" aria-label="E-mail">
+                        <span class="material-symbols-outlined" style="font-size:20px">mail</span>
+                    </a>
+                {% endif %}
+            </div>
+            <div class="bk-footer__links">
+                {% for nav_page in site.pages %}
+                    <a href="{{ nav_page.url | relative_url }}" target="_self">{{ nav_page.title }}</a>
+                {% endfor %}
+                {% if site.presskit_download_link %}
+                    <a href="{{ site.presskit_download_link }}">Kit Imprensa</a>
+                {% endif %}
+            </div>
+        </div>
+    </div>
 </footer>

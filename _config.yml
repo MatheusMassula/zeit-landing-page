@@ -36,70 +36,59 @@ canonical_url                             : https://matheusmassula.github.io/zei
 og_image                                  : https://matheusmassula.github.io/zeit-landing-page/assets/social-media-banner.png
 
 
+# Landing page copy (Material 3 redesign)
+hero_badge                                : Para barbeiros, manicures e autônomos
+hero_title                                : 'Seu negócio organizado, do agendamento ao <span class="accent">caixa</span>.'
+hero_subtitle                             : A Bookit reúne agenda, clientes, serviços e finanças em um só app. Menos papelada, mais tempo para o que importa&#58; atender bem o seu cliente.
+hero_note                                 : Grátis para baixar • iPhone
+hero_image                                : assets/bookit-agenda.png
+
+features_eyebrow                          : Tudo em um só app
+features_title                            : Menos bagunça. Mais clientes atendidos.
+features_subtitle                         : Cada detalhe pensado para o dia a dia de quem trabalha por conta própria.
+
+cta_eyebrow                               : Bora começar?
+cta_title                                 : Organize sua agenda ainda hoje.
+cta_subtitle                              : Baixe a Bookit gratuitamente e tenha o controle do seu negócio no bolso.
+
+
 # Feature List                            Edit, add or remove features to be presented.
+#                                         "icon" is a Material Symbols Outlined name (https://fonts.google.com/icons).
+#                                         Set "premium: true" to show the Premium badge on a card.
 features                                  :
 
-  - title                                 : Gerencie sua agenda
-    description                           : Visualize seus compromissos em calendário mensal, semanal ou diário e nunca perca um atendimento
-    fontawesome_icon_name                 : calendar
+  - title                                 : Sua agenda sempre à vista
+    description                           : Veja seus horários em visão mensal, semanal ou diária e nunca perca um atendimento.
+    icon                                  : calendar_month
 
-  - title                                 : Cadastre seus clientes
-    description                           : Mantenha os dados de contato dos seus clientes organizados em um só lugar
-    fontawesome_icon_name                 : users
+  - title                                 : Clientes na palma da mão
+    description                           : Guarde contatos e histórico dos seus clientes organizados em um só lugar.
+    icon                                  : groups
 
   - title                                 : Catálogo de serviços
-    description                           : Defina seus serviços com preço, duração e moeda para agilizar o agendamento
-    fontawesome_icon_name                 : briefcase
+    description                           : Cadastre cada serviço com preço, duração e moeda para agendar em segundos.
+    icon                                  : design_services
 
   - title                                 : Acompanhe seu faturamento
-    description                           : Veja quanto você faturou e quanto gastou mês a mês com suporte a múltiplas moedas
-    fontawesome_icon_name                 : chart-line
+    description                           : Saiba quanto você faturou e gastou mês a mês, com suporte a várias moedas.
+    icon                                  : trending_up
 
   - title                                 : Controle de despesas
-    description                           : Registre suas despesas com tags e notas para ter total controle financeiro do seu negócio
-    fontawesome_icon_name                 : wallet
+    description                           : Registre gastos com tags e notas e tenha o controle financeiro do seu negócio.
+    icon                                  : receipt_long
 
-  - title                                 : Defina seus horários de trabalho
-    description                           : Configure os dias e horários em que você atende, incluindo intervalos, para organizar sua disponibilidade
-    fontawesome_icon_name                 : clock
+  - title                                 : Seus horários de trabalho
+    description                           : Defina os dias, horários e intervalos em que você atende para organizar sua disponibilidade.
+    icon                                  : schedule
 
   - title                                 : Mensagens personalizadas
-    description                           : Crie modelos de mensagem com variáveis como nome do cliente, serviço e data para enviar confirmações e lembretes em segundos
-    fontawesome_icon_name                 : comment-dots
+    description                           : Monte modelos com nome do cliente, serviço e data e envie confirmações num toque.
+    icon                                  : forum
 
   - title                                 : Dados seguros na nuvem
-    description                           : Sendo membro premium seus dados ficam sincronizados na nuvem e acessíveis de qualquer dispositivo
-    fontawesome_icon_name                 : cloud
-
-# Theme Settings
-topbar_color                              : "#000000"
-topbar_transparency                       : 0.1
-topbar_title_color                        : "#ffffff"
-
-cover_image                               : assets/headerimage.jpg                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.8
-
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
-
-body_background_color                     : "#ffffff"
-
-link_color                                : "#1d63ea"
-
-app_title_color                           : "#ffffff"
-app_price_color                           : "#ffffff"
-app_description_color                     : "#ffffff"
-
-feature_title_color                       : "#000000"
-feature_text_color                        : "#666666"
-
-feature_icons_foreground_color            : "#1d63ea"
-feature_icons_background_color            : "#e6e6e6"
-
-social_icons_foreground_color             : "#666666"
-social_icons_background_color             : "#e6e6e6"
-
-footer_text_color                         : "#666666"
+    description                           : Com o plano premium, seus dados ficam sincronizados e acessíveis de qualquer aparelho.
+    icon                                  : cloud_done
+    premium                               : true
 
 
 
