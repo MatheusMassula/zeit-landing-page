@@ -216,6 +216,9 @@ img { max-width: 100%; }
   filter: drop-shadow(0 30px 60px rgba(26,28,22,.28));
   animation: bkFloat 6s ease-in-out infinite;
 }
+.bk-phone--dark { display: none; }
+[data-theme="dark"] .bk-phone--light { display: none; }
+[data-theme="dark"] .bk-phone--dark { display: block; }
 
 /* ---------- App Store button ---------- */
 .bk-store-btn {

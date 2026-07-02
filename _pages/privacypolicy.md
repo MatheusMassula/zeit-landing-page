@@ -10,8 +10,8 @@ Política de Privacidade
 Última atualização: 28 de abril de 2026
 
 Este Aviso de Privacidade da 64.448.469 MATHEUS PINHEIRO MASSULA (**"nós"**, **"nos"** ou **"nosso"**), descreve como e por que podemos acessar, coletar, armazenar, utilizar e/ou compartilhar (**"processar"**) suas informações pessoais quando você utiliza nossos serviços (**"Serviços"**), inclusive quando você:
-- Faz o download e utiliza nosso aplicativo móvel (Zeit) ou qualquer outro aplicativo nosso que vincule a este Aviso de Privacidade
-- Utiliza o Zeit. O Zeit ajuda autônomos e profissionais de serviços a organizar compromissos, gerenciar clientes e serviços e acompanhar receitas e despesas em um só lugar.
+- Faz o download e utiliza nosso aplicativo móvel (Bookit) ou qualquer outro aplicativo nosso que vincule a este Aviso de Privacidade
+- Utiliza a Bookit. A Bookit ajuda autônomos e profissionais de serviços a organizar compromissos, gerenciar clientes e serviços e acompanhar receitas e despesas em um só lugar.
 - Interage conosco de outras formas relacionadas, inclusive em marketing ou eventos
 
 **Dúvidas ou preocupações?** A leitura deste Aviso de Privacidade ajudará você a entender seus direitos e escolhas em relação à privacidade. Somos responsáveis por decidir como suas informações pessoais são processadas. Se você não concordar com nossas políticas e práticas, por favor não utilize nossos Serviços. Se ainda tiver dúvidas ou preocupações, entre em contato conosco em [matheus.massula.dev@gmail.com](mailto:matheus.massula.dev@gmail.com).

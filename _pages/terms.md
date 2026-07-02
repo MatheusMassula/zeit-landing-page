@@ -13,7 +13,7 @@ Termos e condições
 
 Somos a 64.448.469 MATHEUS PINHEIRO MASSULA ("Empresa", "nós", "nosso"), uma empresa registrada no Brasil em Rua Amilcar Cabral, 601, Belo Horizonte, Minas Gerais, 30620-250.
 
-Operamos o aplicativo móvel Zeit (o "App"), bem como quaisquer outros produtos e serviços relacionados que façam referência ou vinculem a estes termos legais (os "Termos Legais") (coletivamente, os "Serviços").
+Operamos o aplicativo móvel Bookit (o "App"), bem como quaisquer outros produtos e serviços relacionados que façam referência ou vinculem a estes termos legais (os "Termos Legais") (coletivamente, os "Serviços").
 
 Você pode entrar em contato conosco por telefone em +55 31 99993-5266, por e-mail em [matheus.massula.dev@gmail.com](mailto:matheus.massula.dev@gmail.com), ou por correspondência em Rua Amilcar Cabral, 601, Belo Horizonte, Minas Gerais, 30620-250, Brasil.
 

@@ -41,7 +41,8 @@ hero_badge                                : Para barbeiros, manicures e autônom
 hero_title                                : 'Seu negócio organizado, do agendamento ao <span class="accent">caixa</span>.'
 hero_subtitle                             : A Bookit reúne agenda, clientes, serviços e finanças em um só app. Menos papelada, mais tempo para o que importa&#58; atender bem o seu cliente.
 hero_note                                 : Grátis para baixar • iPhone
-hero_image                                : assets/bookit-agenda.png
+hero_image_light                          : assets/screenshot/agenda-light.png
+hero_image_dark                           : assets/screenshot/agenda-dark.png
 
 features_eyebrow                          : Tudo em um só app
 features_title                            : Menos bagunça. Mais clientes atendidos.

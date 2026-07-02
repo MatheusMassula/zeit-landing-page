@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Registro de alterações
-Acompanhe aqui as principais melhorias e novidades do Zeit.
+Acompanhe aqui as principais melhorias e novidades da Bookit.
 
 <br>
 
@@ -14,7 +14,7 @@ ________
 
 ### `Lançamento inicial`
 # **Versão 1.0**
-Primeira versão pública do Zeit, com recursos essenciais para gestão de tempo e controle financeiro para profissionais autônomos e prestadores de serviço.
+Primeira versão pública da Bookit, com recursos essenciais para gestão de tempo e controle financeiro para profissionais autônomos e prestadores de serviço.
 
 #### O que há de novo
 - Cadastro de clientes.
