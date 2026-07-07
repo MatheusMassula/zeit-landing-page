@@ -178,6 +178,7 @@ img { max-width: 100%; }
   position: relative;
   min-height: 560px;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
 }
@@ -208,6 +209,7 @@ img { max-width: 100%; }
   justify-content: center;
   will-change: transform;
   transition: transform .18s ease-out;
+  cursor: pointer;
 }
 .bk-phone {
   width: 322px;
@@ -215,10 +217,42 @@ img { max-width: 100%; }
   display: block;
   filter: drop-shadow(0 30px 60px rgba(26,28,22,.28));
   animation: bkFloat 6s ease-in-out infinite;
+  transition: opacity .3s ease;
 }
+.bk-phone-wrap.is-fading .bk-phone { opacity: 0; }
 .bk-phone--dark { display: none; }
 [data-theme="dark"] .bk-phone--light { display: none; }
 [data-theme="dark"] .bk-phone--dark { display: block; }
+
+/* ---------- Hero rotation dots ---------- */
+.bk-hero__dots {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 24px;
+}
+.bk-hero__dot {
+  width: 9px;
+  height: 9px;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: var(--md-outline-variant);
+  cursor: pointer;
+  transition: background .2s ease, transform .2s ease, width .2s ease;
+}
+.bk-hero__dot:hover { background: var(--md-on-surface-variant); }
+.bk-hero__dot.is-active {
+  width: 24px;
+  border-radius: 5px;
+  background: var(--md-primary);
+}
+.bk-hero__dot:focus-visible {
+  outline: 2px solid var(--md-primary);
+  outline-offset: 2px;
+}
 
 /* ---------- App Store button ---------- */
 .bk-store-btn {
@@ -492,5 +526,5 @@ img { max-width: 100%; }
   html { scroll-behavior: auto; }
   [data-reveal] { opacity: 1 !important; transform: none !important; transition: none !important; }
   .bk-phone, .bk-blob, .bk-blob--2 { animation: none !important; }
-  .bk-phone-wrap { transition: none !important; }
+  .bk-phone, .bk-phone-wrap { transition: none !important; }
 }

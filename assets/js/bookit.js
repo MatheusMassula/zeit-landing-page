@@ -98,4 +98,78 @@
       });
     }
   }
+
+  /* ---------- Hero screenshot rotation ---------- */
+  (function () {
+    var wrap = document.querySelector('[data-phone-wrap]');
+    var dotsWrap = document.querySelector('[data-hero-dots]');
+    if (!wrap || !dotsWrap) return;
+
+    var images;
+    try { images = JSON.parse(wrap.getAttribute('data-hero-images') || '[]'); }
+    catch (e) { images = []; }
+    if (!images || images.length < 2) return;
+
+    var lightBase = wrap.getAttribute('data-hero-light') || '';
+    var darkBase = wrap.getAttribute('data-hero-dark') || '';
+    var imgLight = wrap.querySelector('.bk-phone--light');
+    var imgDark = wrap.querySelector('.bk-phone--dark');
+    if (!imgLight || !imgDark) return;
+
+    var current = 0;
+    var timer = null;
+    var INTERVAL = 4000;
+
+    var dots = images.map(function (name, i) {
+      var b = document.createElement('button');
+      b.type = 'button';
+      b.className = 'bk-hero__dot' + (i === 0 ? ' is-active' : '');
+      b.setAttribute('role', 'tab');
+      b.setAttribute('aria-label', 'Captura ' + (i + 1));
+      b.setAttribute('aria-selected', i === 0 ? 'true' : 'false');
+      b.addEventListener('click', function () { show(i); restart(); });
+      dotsWrap.appendChild(b);
+      return b;
+    });
+
+    function show(i) {
+      current = ((i % images.length) + images.length) % images.length;
+      var name = images[current];
+      var swap = function () {
+        imgLight.src = lightBase + '/' + name;
+        imgDark.src = darkBase + '/' + name;
+      };
+      if (reduceMotion) {
+        swap();
+      } else {
+        wrap.classList.add('is-fading');
+        window.setTimeout(function () {
+          swap();
+          wrap.classList.remove('is-fading');
+        }, 300);
+      }
+      dots.forEach(function (d, di) {
+        var active = di === current;
+        d.classList.toggle('is-active', active);
+        d.setAttribute('aria-selected', active ? 'true' : 'false');
+      });
+    }
+
+    function restart() {
+      if (timer) { window.clearInterval(timer); timer = null; }
+      if (reduceMotion) return;
+      timer = window.setInterval(function () { show(current + 1); }, INTERVAL);
+    }
+
+    wrap.addEventListener('click', function () { show(current + 1); restart(); });
+
+    if (!reduceMotion) {
+      wrap.addEventListener('mouseenter', function () {
+        if (timer) { window.clearInterval(timer); timer = null; }
+      });
+      wrap.addEventListener('mouseleave', restart);
+    }
+
+    restart();
+  })();
 })();
