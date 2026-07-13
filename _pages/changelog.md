@@ -12,6 +12,37 @@ Acompanhe aqui as principais melhorias e novidades da Bookit.
 ________
 <br>
 
+# **Versão 1.0.11**
+#### O que há de novo
+- Nova opção para adiar pagamentos.
+- Limpeza de notificações ao sair da conta.
+
+<br>
+
+________
+<br>
+
+# **Versão 1.0.10**
+#### O que há de novo
+- Correção de compatibilidade para envio da versão no iOS.
+- Atualização do ícone de "hoje" no calendário.
+
+<br>
+
+________
+<br>
+
+# **Versão 1.0.9**
+#### O que há de novo
+- Nova tela de detalhes da loja.
+- Adição de mini calendário e linha de meses para facilitar a navegação.
+- Melhorias na navegação do mini calendário.
+
+<br>
+
+________
+<br>
+
 # **Versão 1.0.8**
 #### O que há de novo
 - Correções no fluxo de login e de design.
